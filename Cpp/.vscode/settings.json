@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "vector": "cpp",
+        "xstring": "cpp",
+        "xutility": "cpp",
+        "random": "cpp",
+        "xlocale": "cpp",
+        "xiosbase": "cpp"
+    }
+}
